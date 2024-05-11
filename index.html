@@ -76,7 +76,8 @@
 							<div class="content">
 								<div class="inner">
 									<h2>We Are Community-Led</h2>
-									<p>The PIT Network is guided by a volunteer Steering Committee, whose members are selected from the community to serve a one-year term, renewable once. The current Steering Committee consists of: Celso Bessa, Ayden Férdeline, Chukwuyere Izuogu, Alex Morley, and Caroline Sinders.</p>
+									<p>The PIT Network is guided by a volunteer Steering Committee, whose members are selected from the community to serve a one-year term, renewable once. The current Steering Committee consists of:</p>
+									<ul id="stcom"><li>Celso Bessa</li><li>Ayden Férdeline</li><li>Chukwuyere Izuogu</li><li>Alex Morley</li><li>Caroline Sinders</li></ul>
 									<p>We are a fiscally supported project of the Open Collective Foundation, with our Network activities funded pursuant to a grant from the Ford Foundation. </p>
 									<ul class="actions">
 										<li><a href="generic.html" class="button">Learn more</a></li>
@@ -207,6 +208,12 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+		        <script>
+var ul = document.getElementById('stcom');
+for (var i = ul.children.length; i >= 0; i--) {
+    ul.appendChild(ul.children[Math.random() * i | 0]);
+}
+			</script>
 
 	</body>
 </html>
