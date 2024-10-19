@@ -23,9 +23,9 @@ In April 2024, the PIT Network held a Strategic Planning Retreat in Marrakech, M
 
 ## We Are Community-Led
 
-The PIT Network is guided by a volunteer Steering Committee, whose members are selected from the community to serve a one-year term, renewable once. The current Steering Committee consists of: Celso Bessa, Ayden Férdeline, Chukwuyere Izuogu, Alex Morley, and Caroline Sinders. 
+The PIT Network is guided by a volunteer Steering Committee, whose members are selected from the community to serve a one-year term, renewable once. The current Steering Committee consists of: Carolina Sinders, Celso Bessa, Nasser Eledroos and Sarah Aoun. 
 
-We are a fiscally supported project of the Open Collective Foundation, with our Network activities funded pursuant to a grant from the Ford Foundation. 
+We are currently a fiscally supported project of Superbloom Design, with our network activities funded pursuant to a grant from the Ford Foundation. 
 
 ## Contact us
 
